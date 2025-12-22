@@ -1,0 +1,1 @@
+https://huggingface.co/camenduru/Z-Image-Loras/resolve/main/grainscape_zimage.safetensors
